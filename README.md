@@ -1,0 +1,1 @@
+Este projeto implementa um sistema de classificação automática de imagens de formas geométricas utilizando Redes Neurais Convolucionais (CNNs). O objetivo é identificar corretamente figuras como círculos, quadrados e triângulos em imagens, mesmo com variações de posição, rotação, escala e ruído.
